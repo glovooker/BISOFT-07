@@ -42,7 +42,7 @@ public class Main {
 
                 case 3:
                     System.out.println("*** Search Property ***");
-                    System.out.print("Type the name of the property you want to seach: ");
+                    System.out.print("Type the name of the property you want to search: ");
                     searchProperty(in.readLine());
                     break;
 
